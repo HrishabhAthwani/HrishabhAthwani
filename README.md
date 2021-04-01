@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designing/Development and UI/UX
 - 🌱 I’m currently learning JavaScript and mastering my HTML and CSS skills
 - 💞️ I’m looking to collaborate on Intermediate level Front-end projects
-- 📫 How to reach me mail me @ athwanihrishabh@gmail.com OR DM me on Instagram @__.hrishu.__
+- 📫 How to reach me mail me @ athwanihrishabh@gmail.com OR DM me on Instagram @Hrishabh Athwani
 
 <!---
 HrishabhAthwani/HrishabhAthwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
