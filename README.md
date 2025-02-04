@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GenAI, Recoil, GSAP**
 
-- 💬 Ask me about **JS, MERN, Fronted SysDes**
+- 💬 Ask me about **JS, MERN,GENAI, DEVOPS Fronted SysDes**
 
 - 📫 How to reach me **athwanihrishabh@gmail.com**
 
