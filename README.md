@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JS, MERN, Fronted SysDes**
 
-- 📫 How to reach me **athwanihrishabh.github@gmail.com**
+- 📫 How to reach me **athwanihrishabh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kv_fovwQdHMzJ4VOjXetZbJP8V-5yYmA/view?usp=sharing](https://drive.google.com/file/d/1kv_fovwQdHMzJ4VOjXetZbJP8V-5yYmA/view?usp=sharing)
 
